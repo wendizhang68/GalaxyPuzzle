@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Dear Staffs:\
+Basically my bug is that when I play the game, sometimes when I put the boundary and form a region, the area does not turn from grey to white. Also when I solved the puzzle, there is no red sign \'93solved\'94. I passed all unit tests. For hidden tests, I passed 3 out of 10. I did not pass 01-region, 02-region,03 to 10. Now I do not have any hint on where should I begin to fix now and what potential problems do I have. Could you give me any hints?\
+Thanks a lot!}
